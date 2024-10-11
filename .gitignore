@@ -1,2 +1,4 @@
 # .gitignore
 terraform.tfvars
+.terraform/
+.terraform/

@@ -23,7 +23,7 @@ variable "aws_secret_access_key" {
   type = string
 }
 
-variable "region" {
-  type = string
-  default = "ap-northeast-1"
-}
+# variable "region" {
+#   type = string
+#   default = "ap-northeast-1"
+# }
